@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Subscribers</string>
+    <string name="subscriber_name_hint">Subscriber name</string>
+    <string name="subscriber_email_hint">E-mail</string>
+    <string name="add">Add</string>
+    <string name="Subscriber">Subscriber</string>
+    <string name="subscriber_inserted_successfully">Subscriber was successfully inserted</string>
+    <string name="subscriber_updated_successfully">Subscriber was successfully updated</string>
+    <string name="subscriber_deleted_successfully">Subscriber was successfully deleted</string>
+    <string name="subscriber_error_to_insert">There war an error when inserting subscriber</string>
+    <string name="subscriber_list">Subscriber List</string>
+    <string name="subscriber_button_update">Update</string>
+</resources>
